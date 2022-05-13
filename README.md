@@ -2,7 +2,7 @@
 This is a code challenge for the recruitment process of the company Upstart 13.
 
 ## Requirements
-* [ReactJs](https://nodejs.org/en/)
+* [ReactJs](https://reactjs.org/)
 * [ViteJs](https://vitejs.dev/)
 
 ## Installation
